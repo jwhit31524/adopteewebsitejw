@@ -1,6 +1,0 @@
-http://www.example.com/index.html
-http://www.example.com/aboutpage
-http://www.example.com/contactpage
-http://www.example.com/blogpage
-http://www.example.com/resultsofsubmission
-http://www.example.com/upcomingevents
